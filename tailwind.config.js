@@ -1,4 +1,4 @@
-const colors = require('tailwindcss/colors')
+const colors = require("tailwindcss/colors");
 
 module.exports = {
   theme: {
@@ -14,8 +14,8 @@ module.exports = {
       'tabColor': '#81E6D9'
     },
     fontFamily: {
-      sans: ['Lato', 'sans-serif'],
-      serif: ['Lato', 'serif'],
-    }
-  }
-}
+      sans: ["Lato", "sans-serif"],
+      serif: ["Lato", "serif"],
+    },
+  },
+};
