@@ -1,5 +1,5 @@
 <template>
-  <div>junai</div>
+  <Landing />
 </template>
 
 <script>
