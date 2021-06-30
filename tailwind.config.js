@@ -8,7 +8,8 @@ module.exports = {
       'danger': '#e3342f',
       'cyan': '#319795',
       'tabColor': '#81E6D9',
-      'white': '#ffffff'
+      'white': '#ffffff',
+      'gray': '#4A5568'
     },
     backgroundColor: {
       'tabColor': '#81E6D9'
